@@ -41,11 +41,11 @@ Camwhores.tv private video bypass
 <label class="control-label" for="videoURL">Private video link</label>
 
 <p class="example">Example: http://www.camwhores.tv/videos/206198/j-ckplusjill-anal/</p>
-<input type="text" name="videoURL" class="form-control" placeholder="Insert video link here" required /><br />
+<input type="text" name="videoURL" class="form-control" placeholder="http://www.camwhores.tv/videos/1211841/julyblondy8/" required /><br />
 
 <label class="control-label" for="random">Random public video ddl link</label>
 <p class="example">Example: http://user5.camwhores.tv/remote_control.php?time=1485616108&cv=1e82c13243fcf2bd0bf13c1263ddad77&lr=312500&cv2=9a5c5664d6ad67446840807c17c95ead&file=%2F177000%2F177444%2F177444.mp4&cv3=3a4110051cef9a72797a1ca99a1dce56</p>
-<input type="text" name="random" class="form-control" placeholder="Insert random public video link here" required /><br />
+<input type="text" name="random" class="form-control" placeholder="http://www.camwhores.tv/videos/1211841/julyblondy8/" required /><br />
 
 
 <input type="submit" name="sumbitVideoURL" value="Sumbit" class="btn btn-default" style="color:black;"/>
